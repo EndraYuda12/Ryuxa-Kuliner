@@ -66,6 +66,13 @@ const menuMakanan = [
     deskripsi: "Perpaduan kopi dan susu yang nikmat.",
     foto: "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=600"
   },
+      {
+    nama: "Kopi Hitam",
+    harga: 8000,
+    kategori: "Minuman",
+    deskripsi: "Kopi hitam dengan aroma khas dan rasa yang nikmat.",
+    foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw7FobdymAlLy6pP003goHUMbmfvNtpHsj6ppCOaBo_A&s=10"
+      }
 ];
 
 const menuContainer = document.getElementById("menuContainer");
